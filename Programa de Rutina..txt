@@ -1,0 +1,615 @@
+ ____________________________________________________________________________________________
+|                                                                                            |
+|                              LUNES-#13 DE FEBRERO                                          |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar el horario de la universidad,          |
+|                llevar una botella,agua y todo lo necesario para el entrenamineto *         |
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00  *Almorzar, Bañarme, cambiarme de ropa e  ir a la Universidad*                 |
+|											     |
+|13:00- 14:00  										     |
+| 											     |
+|14:00- 15:00  *Clase de Referenciacion Geografica*					     |
+|											     |
+|15:00- 16:00  *Clase de Referenciacion Geografica*					     |
+| 											     |
+|16:00- 17:00  *Clase de Referenciacion Geografica* 					     |
+| 											     |
+|17:00- 18:00										     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|  
+|                                                                                            |
+|                              Martes-#14 DE FEBRERO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*							     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Miercoles-#15 DE FEBRERO                                      |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00  *Desayunar, llevar una botella agua y todo lo necesario para el entrenamineto* |	      
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00   *Entrenamiento de Tenis*                                                     |
+|											     |
+|13:00- 14:00  	*Entrenamiento de Tenis* 				          	     |
+| 											     |
+|14:00- 15:00  	*Almorzar, Bañarme, cambiarme de ropa*                                       |
+|											     |
+|15:00- 16:00  					                                             |
+| 											     |
+|16:00- 17:00   *Estudiar y Verificar los temas vistos en  clase*		             |
+| 											     |
+|17:00- 18:00	*Estudir y Verificar los temas vistos en clase*			             |
+|  									 	             |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Jueves-#16 DE FEBRERO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*						             |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Viernes-#17 DE FEBRERO                                        |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar los trabajos pendientes *              |
+|											     |
+|8:00 - 9:00   *Tomar el bus, llegar a la Universidad*					     |
+|											     |
+|9:00- 10:00                   				                                     |
+|                                       						     |
+|10:00- 11:00   *Laboratorio de Informatica II*                                              |
+|                                                                                            |
+|11:00- 12:00 	*Laboratorio de Informatica II*					             |	 
+| 											     |
+|12:00- 13:00   *Laboratorio de Informatica II*                                              |
+|											     |
+|13:00- 14:00  	*Almorzar, llegar a Casa,  tomar un baño*				     |
+| 											     |
+|14:00- 15:00  										     |
+|											     |
+|15:00- 16:00  *Origaizar cuales son  los Trabajos pendientes de la Universidad*	     |
+| 											     |
+|16:00- 17:00  *Hacer una lista de como Organizar el tiempo el fin de Semana, 		     |
+|		para repasar los temas vistos en clase* 				     |
+| 											     |
+|17:00- 18:00										     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+
+
+ ____________________________________________________________________________________________
+|                                                                                            |
+|                              LUNES-#20 DE FEBRERO                                          |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar el horario de la universidad,          |
+|                llevar una botella,agua y todo lo necesario para el entrenamineto *         |
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00  *Almorzar, Bañarme, cambiarme de ropa e  ir a la Universidad*                 |
+|											     |
+|13:00- 14:00  										     |
+| 											     |
+|14:00- 15:00  *Clase de Referenciacion Geografica*					     |
+|											     |
+|15:00- 16:00  *Clase de Referenciacion Geografica*					     |
+| 											     |
+|16:00- 17:00  *Clase de Referenciacion Geografica* 					     |
+| 											     |
+|17:00- 18:00										     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|  
+|                                                                                            |
+|                              Martes-#21 DE FEBRERO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*							     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Miercoles-#22 DE FEBRERO                                      |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00  *Desayunar, llevar una botella agua y todo lo necesario para el entrenamineto* |	      
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00   *Entrenamiento de Tenis*                                                     |
+|											     |
+|13:00- 14:00  	*Entrenamiento de Tenis* 				          	     |
+| 											     |
+|14:00- 15:00  	*Almorzar, Bañarme, cambiarme de ropa*                                       |
+|											     |
+|15:00- 16:00  					                                             |
+| 											     |
+|16:00- 17:00   *Estudiar y Verificar los temas vistos en  clase*		             |
+| 											     |
+|17:00- 18:00	*Estudir y Verificar los temas vistos en clase*			             |
+|  									 	             |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Jueves-#23 DE FEBRERO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*						             |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Viernes-#24 DE FEBRERO                                        |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar los trabajos pendientes *              |
+|											     |
+|8:00 - 9:00   *Tomar el bus, llegar a la Universidad*					     |
+|											     |
+|9:00- 10:00                   				                                     |
+|                                       						     |
+|10:00- 11:00   *Laboratorio de Informatica II*                                              |
+|                                                                                            |
+|11:00- 12:00 	*Laboratorio de Informatica II*					             |	 
+| 											     |
+|12:00- 13:00   *Laboratorio de Informatica II*                                              |
+|											     |
+|13:00- 14:00  	*Almorzar en la U, llegar a Casa,  tomar un baño*		             |
+| 											     |
+|14:00- 15:00  										     |
+|											     |
+|15:00- 16:00  *Origaizar las Fechas de los Parciales mas Cercanos*	                     |
+| 											     |
+|16:00- 17:00  *Estudiar para el parcial de Mat. Especiales* 				             |
+| 											     |
+|17:00- 18:00  *Estudiar para el parcial de Mat. Especiales*				     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+
+
+ ____________________________________________________________________________________________
+|                                                                                            |
+|                              LUNES-#27 DE FEBRERO                                          |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar el horario de la universidad,          |
+|                llevar una botella,agua y todo lo necesario para el entrenamineto *         |
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00  *Almorzar, Bañarme, cambiarme de ropa e  ir a la Universidad*                 |
+|											     |
+|13:00- 14:00  										     |
+| 											     |
+|14:00- 15:00  *Clase de Referenciacion Geografica*					     |
+|											     |
+|15:00- 16:00  *Clase de Referenciacion Geografica*					     |
+| 											     |
+|16:00- 17:00  *Clase de Referenciacion Geografica* 					     |
+| 											     |
+|17:00- 18:00										     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|  
+|                                                                                            |
+|                              Martes-#28 DE FEBRERO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *PARCIAL Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*PARCIAL Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*							     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Miercoles-#1 DE MARZO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00  *Desayunar, llevar una botella agua y todo lo necesario para el entrenamineto* |	      
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00   *Entrenamiento de Tenis*                                                     |
+|											     |
+|13:00- 14:00  	*Entrenamiento de Tenis* 				          	     |
+| 											     |
+|14:00- 15:00  	*Almorzar, Bañarme, cambiarme de ropa*                                       |
+|											     |
+|15:00- 16:00  					                                             |
+| 											     |
+|16:00- 17:00   *Estudiar y Verificar los temas vistos en  clase*		             |
+| 											     |
+|17:00- 18:00	*Estudir y Verificar los temas vistos en clase*			             |
+|  									 	             |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Jueves-#2 DE MARZO                                            |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*						             |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Viernes-#3 DE MARZO                                           |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar los trabajos pendientes *              |
+|											     |
+|8:00 - 9:00   *Tomar el bus, llegar a la Universidad*					     |
+|											     |
+|9:00- 10:00                   				                                     |
+|                                       						     |
+|10:00- 11:00   *Laboratorio de Informatica II*                                              |
+|                                                                                            |
+|11:00- 12:00 	*Laboratorio de Informatica II*					             |	 
+| 											     |
+|12:00- 13:00   *Laboratorio de Informatica II*                                              |
+|											     |
+|13:00- 14:00  	*Almorzar en la U, llegar a Casa,  tomar un baño*			     |
+| 											     |
+|14:00- 15:00  										     |
+|											     |
+|15:00- 16:00  *Origaizar las Fechas de los Parciales mas Cercanos*	                     |
+| 											     |
+|16:00- 17:00  *Estudiar para el parcial mas Cercano* 				             |
+| 											     |
+|17:00- 18:00  *Estudiar para el parcial mas Cercano*					     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+
+
+ ____________________________________________________________________________________________
+|                                                                                            |
+|                              LUNES-#6 DE MARZO                                             |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar el horario de la universidad,          |
+|                llevar una botella,agua y todo lo necesario para el entrenamineto *         |
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00  *Almorzar, Bañarme, cambiarme de ropa e  ir a la Universidad*                 |
+|											     |
+|13:00- 14:00  										     |
+| 											     |
+|14:00- 15:00  *Clase de Referenciacion Geografica*					     |
+|											     |
+|15:00- 16:00  *Clase de Referenciacion Geografica*					     |
+| 											     |
+|16:00- 17:00  *Clase de Referenciacion Geografica* 					     |
+| 											     |
+|17:00- 18:00										     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|  
+|                                                                                            |
+|                              Martes-#7 DE MARZO                                          |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*							     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Miercoles-#8 DE MARZO                                         |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00  *Desayunar, llevar una botella agua y todo lo necesario para el entrenamineto* |	      
+|											     |
+|8:00 - 9:00   *Entrenamiento de Tenis*							     |
+|											     |
+|9:00- 10:00   *Entrenamiento de Tenis*                 				     |
+|                                       						     |
+|10:00- 11:00                                                                                |
+|                                                                                            |
+|11:00- 12:00 										     |	 
+| 											     |
+|12:00- 13:00   *Entrenamiento de Tenis*                                                     |
+|											     |
+|13:00- 14:00  	*Entrenamiento de Tenis* 				          	     |
+| 											     |
+|14:00- 15:00  	*Almorzar, Bañarme, cambiarme de ropa*                                       |
+|											     |
+|15:00- 16:00  					                                             |
+| 											     |
+|16:00- 17:00   *Estudiar y Verificar los temas vistos en  clase*		             |
+| 											     |
+|17:00- 18:00	*Estudir y Verificar los temas vistos en clase*			             |
+|  									 	             |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Jueves-#9 DE MARZO                                            |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, y el horario de las clases*                    |
+|											     |
+|8:00 - 9:00   *Clase de Informatica II*						     |
+|											     |
+|9:00- 10:00   *Clase de Informatica II*                 				     |
+|                                       						     |
+|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|                                                                                            |
+|11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
+| 											     |
+|12:00- 13:00   *Clase Matematicas Especiales*                                               |
+|											     |
+|13:00- 14:00  	*Clase Matematicas Especiales*  					     |
+| 											     |
+|14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
+|											     |
+|15:00- 16:00  				                                        	     |
+| 											     |
+|16:00- 17:00    					                                     |
+| 											     |
+|17:00- 18:00	*Clase de Ingles V*							     |
+|  											     |
+|18:00- 20:00	*Clase de Ingles V*						             |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|                              Viernes-#10 DE MARZO                                          |
+|____________________________________________________________________________________________|
+|                                                                                            |
+|6:00 - 7:00   *Despertar, bañarme,  ordenar mi habitacion*                                  |
+|	       										     |
+|7:00 - 8:00   *Desayunar, revisar mi correo, revisar los trabajos pendientes *              |
+|											     |
+|8:00 - 9:00   *Tomar el bus, llegar a la Universidad*					     |
+|											     |
+|9:00- 10:00                   				                                     |
+|                                       						     |
+|10:00- 11:00   *Laboratorio de Informatica II*                                              |
+|                                                                                            |
+|11:00- 12:00 	*Laboratorio de Informatica II*					             |	 
+| 											     |
+|12:00- 13:00   *Laboratorio de Informatica II*                                              |
+|											     |
+|13:00- 14:00  	*Almorzar en la U, llegar a Casa,  tomar un baño*			     |
+| 											     |
+|14:00- 15:00  										     |
+|											     |
+|15:00- 16:00  *Origaizar las Fechas de los Parciales mas Cercanos*	                     |
+| 											     |
+|16:00- 17:00  *Estudiar para el parcial mas Cercano* 				             |
+| 											     |
+|17:00- 18:00  *Estudiar para el parcial mas Cercano*					     |
+|  											     |
+|18:00- 20:00										     |
+|____________________________________________________________________________________________|
