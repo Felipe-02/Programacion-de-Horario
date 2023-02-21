@@ -207,7 +207,7 @@
 | 											     |
 |14:00- 15:00  *Regresr de la Universidad, Almorzar*					     |
 |											     |
-|15:00- 16:00  				                                        	     |
+|15:00- 16:00  * Ver el Partdio del Real Madrid vs Liverpool*                         	     |
 | 											     |
 |16:00- 17:00    					                                     |
 | 											     |
@@ -241,9 +241,9 @@
 | 											     |
 |16:00- 17:00   *Estudiar y Verificar los temas vistos en  clase*		             |
 | 											     |
-|17:00- 18:00	*Estudir y Verificar los temas vistos en clase*			             |
+|17:00- 18:00	*Estudir y Verificar los temas*		             |
 |  									 	             |
-|18:00- 20:00										     |
+|18:00- 20:00	*Prepara todo para el di Siguiente*									     |
 |____________________________________________________________________________________________|
 |                                                                                            |
 |                              Jueves-#23 DE FEBRERO                                         |
@@ -351,7 +351,7 @@
 |											     |
 |9:00- 10:00   *Clase de Informatica II*                 				     |
 |                                       						     |
-|10:00- 11:00  *Clase de Fisica de Ondas*                                                    |
+|10:00- 11:00  *QUIZ--Fisica de Ondas--*                                                    |
 |                                                                                            |
 |11:00- 12:00  *Clase de Fisica de Ondas*						     |	 
 | 											     |
@@ -423,7 +423,7 @@
 |											     |
 |15:00- 16:00  				                                        	     |
 | 											     |
-|16:00- 17:00    					                                     |
+|16:00- 17:00   *Terminar El Proyecto de Info II* 		                             |
 | 											     |
 |17:00- 18:00	*Clase de Ingles V*							     |
 |  											     |
